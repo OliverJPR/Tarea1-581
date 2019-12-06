@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tarea 1 ISC 581</string>
+    <string name="textview"></string>
+    <string name="elige_una_fecha">Elige una Fecha</string>
+    <string name="nombre_s">Nombre</string>
+    <string name="apellido_s">Apellido</string>
+    <string name="ejemplo_tuorganizacion_com">hola@mundo.com</string>
+    <string name="confirmar">Confirmar</string>
+
+
+</resources>
